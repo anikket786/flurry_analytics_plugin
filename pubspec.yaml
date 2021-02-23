@@ -2,7 +2,7 @@ name: flurry_analytics_plugin
 description: A Flutter plugin to use Flurry Analytics. This plugin provides all the FlurryAgent methods.
 version: 0.0.1
 author: Aniket Kumar <anikketkumar786@gmail.com>
-homepage:
+homepage: https://github.com/anikket786/flurry_analytics_plugin
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
